@@ -1,8 +1,0 @@
-#!/bin/bash
-
-# Script to update my machine
-
-sudo apt-get update
-sudo apt dist-upgrade
-sudo pacman -Syy && sudo pacman -Syu
-exit
